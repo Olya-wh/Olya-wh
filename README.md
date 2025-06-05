@@ -12,6 +12,6 @@
 ### Проекты:
 | Проект                  | Описание                                                                               | Ссылка                                                                 |
 |-------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Анализ сервиса доставки | Разработала SQL-дашборды с метриками (Retention, ARPU, AOV), агрегация данных.         | [Redash](https://redash.public.karpov.courses/public/dashboards/85wXy...) |
+| Анализ сервиса доставки | Разработала SQL-дашборды с метриками (Retention, ARPU, AOV), агрегация данных.         | [Redash](https://redash.public.karpov.courses/public/dashboards/85wXy8tFc0b1vp3pHtwBfvXf7ExusQbeWwAPpELe?org_slug=default) |
 | Парсинг вакансий hh.ru  | Скрипт на Python для сбора данных, анализ рынка труда, визуализация (boxplot).         | [GitHub](https://github.com/Olya-wh/parser_vacancies_hh.ru)        
 
