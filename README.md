@@ -1,4 +1,4 @@
-# Ольга Беляева | Data Analyst
+# Data Analyst
 
 **Аналитик данных** с опытом в SQL, Python и визуализации.  
 Москва | [Telegram](https://t.me/Olyawh) | olyawh@yandex.ru  
